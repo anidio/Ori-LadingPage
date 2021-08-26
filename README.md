@@ -1,4 +1,4 @@
-# Or--LadingPge
+# Orí-LadingPage
 Projeto ganhador do segundo lugar no Inova Camp Afro 2021, do Cesar.
 
 Link de acesso: https://orj.netlify.app/
