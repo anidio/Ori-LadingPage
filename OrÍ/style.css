@@ -1,0 +1,91 @@
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .custom-logo{
+    height: 60px;  
+  }
+
+  .header-site{
+   background-size: cover;
+
+}
+
+#app{
+  background-color: #2e3c4e;
+  padding: 3%;
+  padding-top: 3%;
+  color: aliceblue;
+  font-family: 'Ubuntu', sans-serif;
+ 
+}
+
+#orj{
+  text-align: center;
+  background-color: #2e3c4e;
+      
+     
+}
+
+.botao{
+  text-align: center;
+  padding-top: 55%;
+  align-self: flex-end ;
+}
+
+.redes{
+  text-align: center;
+  padding-left: 40%;
+}
+
+.btn-custon{
+  border: none;
+  background-color: #dfe1e0;
+}
+
+.btn-icon{
+  color: #d37b41;
+  border-color: #d37b41 ;
+  
+}
+
+.preco{
+  color: black;
+  
+}
+
+.resp{
+  width: 50%;
+}
+
+body{
+  background-color: #2e3c4e	;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  
+}
+
+h2{
+  font-size: xx-large;
+  font-family: 'Ubuntu', sans-serif; 
+  font-weight: bold;
+}
+
+p{
+  font-size: large;
+  text-align: justify;
+  
+}
+
+#back{
+  background-color: #2e3c4e;
+  color: white;
+}
+
+
